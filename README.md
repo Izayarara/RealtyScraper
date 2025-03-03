@@ -24,7 +24,7 @@ The results are saved in a structured JSON format (`scrapedData.json`) for easy 
 ## Installation
 ### Clone this repository:
 ```bash
-git clone https://github.com/YourUsername/RealEstateScraper.git
+git clone https://github.com/Izayarara/RealtyScraper.git
 cd RealEstateScraper
 ```
 
