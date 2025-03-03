@@ -1,0 +1,48 @@
+[
+    {
+        "price": "$129,000",
+        "address": "1201 S Chestnut St Unit 601, Ellensburg, WA 98926",
+        "beds": "3",
+        "baths": "2",
+        "sqft": "1,029",
+        "latitude": 46.982443,
+        "longitude": -120.5363489
+    },
+    {
+        "price": "$69,900",
+        "address": "1201 S Chestnut St Unit 301, Ellensburg, WA 98926",
+        "beds": "1",
+        "baths": "1",
+        "sqft": "396",
+        "latitude": 46.982443,
+        "longitude": -120.5363489
+    },
+    {
+        "price": "$35,000",
+        "address": "101 Wilson Creek Rd Trlr 62, Ellensburg, WA 98926",
+        "beds": "2",
+        "baths": "1",
+        "sqft": "784",
+        "lot_size": "871 square feet",
+        "latitude": 47.000554,
+        "longitude": -120.497363
+    },
+    {
+        "price": "$91,999",
+        "address": "2900 S Canyon Rd Unit 109, Ellensburg, WA 98926",
+        "beds": "3",
+        "baths": "2",
+        "sqft": "1,144",
+        "latitude": 46.9773162,
+        "longitude": -120.5431059
+    },
+    {
+        "price": "$91,999",
+        "address": "2900 S Canyon Rd Unit 58, Ellensburg, WA 98926",
+        "beds": "3",
+        "baths": "2",
+        "sqft": "1,144",
+        "latitude": 46.9773162,
+        "longitude": -120.5431059
+    }
+]
